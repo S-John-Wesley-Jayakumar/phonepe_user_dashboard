@@ -31,6 +31,7 @@ This code is a Python script that calls the above functions that  extracts data 
 #-----------------------------------------------------------------------------------------------------------------------#
 
 
-![Screenshot (24)](https://github.com/S-John-Wesley-Jayakumar/phonepe_user_dashboard/assets/123185385/009a336a-7567-49cb-aef2-12f5f13c2a14)
+
+![Screenshot (25)](https://github.com/S-John-Wesley-Jayakumar/phonepe_user_dashboard/assets/123185385/13d658fe-f2c7-46b4-8e2a-5df23fade83c)
 
 
