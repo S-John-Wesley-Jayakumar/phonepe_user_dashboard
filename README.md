@@ -38,8 +38,39 @@ This code is a Python script that calls the above functions that  extracts data 
 
 #-----------------------------------------------------------------------------------------------------------------------#
 
+# README FOR app_query_finil.py fie (SQL Dashboard using Streamlit)
+
+This is a simple SQL dashboard that visualizes data fetched from a MySQL database using Streamlit and Plotly Express.
+
+#Dependencies
+
+•	Streamlit
+•	Plotly
+•	Pandas
+•	SQLAlchemy
+•	mysql-connector-python
+
+#Usage
+
+The Data  extracted using demo_etl.py file and stored in MySQL database , the data required for the dashboard is queried from the database and used to plot.
+The app consists of three pages, each with a different visualization of the data.
+
+#Aggregated View
+
+This page displays a bar plot of transaction type vs transaction amount for a selected year and quarter. The user can select a filter to display a subset of the data.
+
+#Overall Pie View
+
+This page displays a pie chart of the distribution of PhonePe users by brand for a selected year and quarter.
+
+#India Map View
+
+This page displays a choropleth map of India using geojson file with the transaction amount for each state for a selected year and quarter.
 
 
-![Screenshot (25)](https://github.com/S-John-Wesley-Jayakumar/phonepe_user_dashboard/assets/123185385/13d658fe-f2c7-46b4-8e2a-5df23fade83c)
+
+
+
+
 
 
